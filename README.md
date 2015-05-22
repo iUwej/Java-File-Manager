@@ -1,1 +1,1 @@
-This Project is No longer maintained as better alternatives exists.
+This Project is No longer maintained as better alternatives exist.
